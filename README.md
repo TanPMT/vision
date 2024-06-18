@@ -1,4 +1,4 @@
-# Đồ án môn học
+# Đồ án môn học Nhập môn thị giác máy tính CS231.021
 
 Đề tài: Nhận diện lá cờ thuộc các quốc gia châu Á
 
